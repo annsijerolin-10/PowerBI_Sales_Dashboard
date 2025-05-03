@@ -37,7 +37,7 @@ To create a dynamic and interactive dashboard to analyze multi-year sales data a
 
 ## 📸 Dashboard Screenshot
 
-![Sales Dashboard Screenshot](your-screenshot-link-here)
+![Sales Dashboard Screenshot] Screenshot 2025-05-03 191948.png
 
 ---
 
