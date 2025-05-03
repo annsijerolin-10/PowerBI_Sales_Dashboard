@@ -43,7 +43,7 @@ To create a dynamic and interactive dashboard to analyze multi-year sales data a
 
 ## 👨‍💻 Creator
 
-**Name:** Annsi  Jerolin E 
+**Name:** Annsi Jerolin E  
 **Learning Source:** Self-learned via YouTube tutorials  
 **Status:** Beginner-level Power BI project
 
